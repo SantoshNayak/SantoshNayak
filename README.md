@@ -1,16 +1,14 @@
 ### Hi there 👋
+### Passionate Programmer | Frontend Dev | Mentor
 
-<!--
-**SantoshNayak/SantoshNayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Angular and Node JS  
+- 🌱 I’m currently learning RxJS, NgRx and AWS
+- 💬 Ask me about Anything on Angular
+- 📫 How to reach me: - [LinkedIn](https://www.linkedin.com/in/santoshnayak1996/)
 
-Here are some ideas to get you started:
+## 🤝 Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="santoshnayak1996 | Facebook" src="https://www.facebook.com/santoshnayak1996/" />][facebook]
+[<img align="left" alt="hey_santosh | Twitter" src="https://twitter.com/hey_santosh" />][twitter]
+[<img align="left" alt="santoshnayak1996 | LinkedIn" src="https://www.linkedin.com/in/santoshnayak1996/" />][linkedin]
+[<img align="left" alt="santoshnayak1996 | Medium" src="https://medium.com/@santoshnayak1996" />][medium]

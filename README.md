@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Angular and Node JS**
 
-- 🌱 I’m currently learning **RxJS, NgRx and AWS**
-
 - 💬 Ask me about **Anything on Angular**
 
 

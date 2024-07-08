@@ -9,7 +9,6 @@
 
 - 💬 Ask me about **Anything on Angular**
 
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/santoshnayak1996/)**
 
 
 <h3 align="left">Languages and Tools:</h3>

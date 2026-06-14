@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santosh Nayak</h1>
-<h3 align="center">A Passionate Frontend developer from India</h3>
+<h3 align="center">A Passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santoshnayak&label=Profile%20views&color=0e75b6&style=flat" alt="santoshnayak" /> </p>
 
